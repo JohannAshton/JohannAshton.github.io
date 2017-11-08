@@ -1,4 +1,5 @@
-#The start of my one week with Slackware
+# The start of my one week with Slackware
+
 As of today, I temporarily switching to Slackware on my laptop. It's the first time in ages that I've used a Linux distribution other than Arch Linux (unless you count Raspbian on my Pi 3 Model B), and I'm rather looking forward to it. I'm not sure if a week is really long enough to properly get to know a distro, so I may end up using it for a longer period.
 This all started because of my failed efforts to get my father to give Arch a shot. He's a proponent of Slackware, and despises systemd (the init that Arch Linux and many other modern distributions use). However, when he found out that it's possible to use OpenRC in Arch, we decided we would swap distributions for a week.
 <https://wiki.archlinux.org/index.php/OpenRC>
